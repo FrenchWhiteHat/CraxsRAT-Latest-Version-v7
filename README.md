@@ -118,3 +118,7 @@ Once installed, it can automatically reboot with the system to remain active and
 5. Spread CraxsRAT is often spread via phishing emails, cracked software, or other forms of infected software that users can download without suspecting the threat.
 
 Due to its capabilities, CraxsRAT is considered a serious threat. To protect yourself against this type of malware, it is essential to keep your antivirus up to date, avoid downloads from unverified sources, and be vigilant about links and attachments in unsolicited emails.
+
+
+
+EDUCATIONAL PURPOSE ONLY.....
