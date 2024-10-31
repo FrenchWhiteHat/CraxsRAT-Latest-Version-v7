@@ -99,7 +99,7 @@ Skeleton view or Scan View
 ⭐Add a logo window to copy anything from the screen easily
 
 
-Download : https://www.blackhatfrench.com
+The source code and the tool have been leaked, here it is on our site, you can find it : https://www.blackhatfrench.com
 
 
 
