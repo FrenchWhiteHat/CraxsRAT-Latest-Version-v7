@@ -1,5 +1,5 @@
 # CraxsRAT-Latest-Version-v7
-CraxsRAT Analysis malware
+CraxsRAT Malware Analysis and Explanation of Its Competence and How It Spreads !
 ![CraxsRAT v7](https://github.com/user-attachments/assets/dff10f46-58c6-4913-9587-0233eb3a717a)
 
 
